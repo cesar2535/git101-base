@@ -7,11 +7,17 @@
 - `git push`
 - `git log`
 
-## 分散式版本控制 -- Branch workflow
+## 分散式版本控制 -- Branch workflow (Feature Branch workflow)
 - Mutiple feature development, mutiple branch.
+- 多個功能，多個分支
 - Never disturb the main codebase.
+- 永遠不要去打擾主要分支 (master)
 
 ### How it work
+
+![first](http://i.imgur.com/9xXoF2S.png)
+![second](http://i.imgur.com/E4w0B2E.png)
+![thrid](http://i.imgur.com/zm1ApR9.png)
 
 ![branch](https://docs.google.com/drawings/d/1GIYdJVVUDJah87L_eXc76YytV395qY8Y94RaSb5SNa0/pub?w=670&h=619)
 
