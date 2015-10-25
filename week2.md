@@ -30,7 +30,6 @@
   $ git commit -m "Message for this commit"
   ```
 
-
 ## What is `pull`?
 - `pull` = `fetch` + `merge`
 - `merge` vs. `rebase`
