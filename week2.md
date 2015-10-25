@@ -21,6 +21,12 @@
 
 ![branch](https://docs.google.com/drawings/d/1GIYdJVVUDJah87L_eXc76YytV395qY8Y94RaSb5SNa0/pub?w=670&h=619)
 
+### Steps
+1. do something here.
+2. do another here.
+3. do others else here.
+
+
 ## What is `pull`?
 - `pull` = `fetch` + `merge`
 - `merge` vs. `rebase`
